@@ -17,8 +17,3 @@ $konfigurasi = [
         ]
     ];
 
-//formulir store
-$formulirStore = new \SleekDB\Store("formulir", DB_DIR, $konfigurasi);
-
-//user store
-$userStore = new \SleekDB\Store("user",DB_DIR,$konfigurasi);
