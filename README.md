@@ -5,4 +5,4 @@ Ini adalah contoh web yang melakukan operasi Create, Read, Update and Delete (CR
 2. Buka terminal lalu ketik: ``sh install.sh``
 # Cara Penggunaan
 1. Buka terminal lalu ketik: ``php -S 0.0.0.0:8080 -t .``
-2. Buka internet browser (misalnya Chrome), lalu masukkan buka localhost:8080 pada address bar
+2. Buka internet browser (misalnya Chrome), lalu masukkan buka ``localhost:8080`` pada address bar
